@@ -5,7 +5,6 @@
 <a href="https://codewithahmed.com"><img src="https://img.shields.io/badge/Portfolio-codewithahmed.com-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/realahmad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:hello@codewithahmed.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=ahmad-sarwari&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -52,19 +51,6 @@
 
 - 🎓 **B.Sc. Computer Science** — Bahauddin Zakariya University
 - 📜 Python Data Structures & Python for Everybody — *University of Michigan*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmad-sarwari&show_icons=true&theme=tokyonight" alt="Ahmad's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-sarwari&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-sarwari&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
